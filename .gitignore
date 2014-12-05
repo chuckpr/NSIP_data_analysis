@@ -5,3 +5,5 @@ figures_and_stats/table.*
 !data/barcode_mapper.txt
 !data/finalQC.fasta.bz2
 !data/sample_data_combined_qiime_format.tsv
+!data/garciapichel2013.csv
+!data/otusn_yeager2006.fasta
