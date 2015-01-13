@@ -2,6 +2,7 @@
 data/*
 figures_and_stats/table.*
 !data/otu_table_wtax.biom
+!data/LTP_blast_table.tsv
 !data/barcode_mapper.txt
 !data/finalQC.fasta.bz2
 !data/sample_data_combined_qiime_format.tsv
