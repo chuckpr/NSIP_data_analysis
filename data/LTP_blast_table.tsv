@@ -1,0 +1,35 @@
+OTU_ID	Genera_of_top_hits	BLAST_%ID	top_10?	Phylum
+OTU.108	Caloramator	96.94	no	Firmicutes
+OTU.1276	Agromyces	99.49	yes	Actinobacteria
+OTU.137	Azospirillum	99.48	no	Proteobacteria
+OTU.14	Klebsiella, Kluyvera, Erwinia, Enterobacter, Pantoea, Buttiauxella	99.49	yes	Proteobacteria
+OTU.140	Bacillus	100.0	no	Firmicutes
+OTU.1673	Clostridium	95.9	no	Firmicutes
+OTU.176	Delftia	100.0	no	Proteobacteria
+OTU.2036	Pseudomonas	99.49	yes	Proteobacteria
+OTU.227	Cellulosilyticum	93.4	no	Firmicutes
+OTU.243	Bacillus	98.98	no	Firmicutes
+OTU.259	Parasporobacterium	98.47	no	Firmicutes
+OTU.263	Azospirillum	98.48	no	Proteobacteria
+OTU.278	Symbiobacterium	90.62	no	Firmicutes
+OTU.2794	Enterobacter	100.0	no	Proteobacteria
+OTU.282	Nocardia, Rhodococcus	100.0	no	Actinobacteria
+OTU.3	Bacillus	100.0	no	Firmicutes
+OTU.321	Pseudomonas	100.0	yes	Proteobacteria
+OTU.327	Clostridium	94.92	no	Firmicutes
+OTU.330	Clostridium	96.94	yes	Firmicutes
+OTU.342	Acinetobacter	100.0	no	Proteobacteria
+OTU.3712	Clostridium, Eubacterium	96.43	no	Firmicutes
+OTU.4037	Fonticella	93.85	no	Firmicutes
+OTU.4167	Fonticella	93.43	no	Firmicutes
+OTU.419	Caloramator	93.88	no	Firmicutes
+OTU.470	Gemmatimonas	85.86	yes	Gemmatimonadetes
+OTU.528	Clostridium	95.38	yes	Firmicutes
+OTU.54	Shigella, Escherichia	100.0	yes	Proteobacteria
+OTU.57	Fonticella, Caloramator	93.88	no	Firmicutes
+OTU.586	Ottowia, Diaphorobacter, Ideonella, Vitreoscilla, Comamonas	98.48	no	Proteobacteria
+OTU.61	Clostridium	95.92	no	Firmicutes
+OTU.643	Clostridium	97.45	no	Firmicutes
+OTU.647	Magnetospirillum	99.48	no	Proteobacteria
+OTU.697	Pseudomonas	98.47	yes	Proteobacteria
+OTU.761	Gracilibacter	93.91	yes	Firmicutes
