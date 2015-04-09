@@ -8,12 +8,13 @@
 A preprint can be found at
 [http://dx.doi.org/10.1101/013813](http://dx.doi.org/10.1101/013813).  
 
-## IPython notebooks for each figure
+## IPython notebooks for each figure and table
 
 [Figure 1](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/ordination_heavy_fractions.ipynb)  
 [Figure 2](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/l2fc.ipynb)  
 [Figure 3](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/trees.ipynb)  
 [Figure 4](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/scatter_top10.ipynb)  
+[Table 1](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/LTP_BLAST_table.ipynb) 
 
 ## IPython notebooks for supplemental figures
 
