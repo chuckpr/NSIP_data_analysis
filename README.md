@@ -36,11 +36,13 @@ A preprint can be found at
 
 ## Description of files in data directory
 
-```LTP_blast_table.tsv```
-```barcode_mapper.txt```
-```finalQC.fasta.bz2```
-```garciapichel2013.csv```
-```OTU_table_wtax.biom```
-```otusn_yeager2006.fasta```
-```sample_data_combined_qiime_format.tsv``` 
+| Filename | Description |
+| ------------------------------------------ | ------------------------------------------------------------------------|
+| LTP_blast_table.tsv                        | BLAST hits agains LTP database for OTU centroids |
+| barcode_mapper.txt                         | barcodes and sample information for DNA-SIP 16S rRNA gene sequences     |
+| finalQC.fasta.bz2                          | All 16S rRNA sequences after quality control |
+| garciapichel2013.csv                       | Sample information for Garcia-Pichel data |
+| OTU_table_wtax.biom                        | OTU table with taxonomica annotations |
+| otusn_yeager2006.fasta                     | OTU centroid sequences |
+| sample_data_combined_qiime_format.tsv      | QIIME formatted sample data table for combined datasets |
 
