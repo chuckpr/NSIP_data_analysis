@@ -1,4 +1,4 @@
-# This is the data analysis repo for our soil crust Nitrogen-SIP paper
+# This is the data analysis repo for our soil crust Nitrogen-SIP manuscript
 
 >**Charles Pepe-Ranney**, Chantal Koechli, Ruth Potrafka, Cheryl Andam, Erin
 >Eggleston, Ferran Garcia-Pichel, Daniel H Buckley. Non-cyanobacterial
