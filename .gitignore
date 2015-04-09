@@ -1,6 +1,7 @@
 **.ipynb_checkpoints/
 data/*
 figures_and_stats/table.*
+**d3_data*
 !data/otu_table_wtax.biom
 !data/LTP_blast_table.tsv
 !data/barcode_mapper.txt
