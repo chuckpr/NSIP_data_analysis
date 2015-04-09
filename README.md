@@ -22,3 +22,14 @@ A preprint can be found at
 [Figure S3]()  
 [Figure S4](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/rarefaction_curves.ipynb)  
 [Figure S5](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/diazotroph_distribution.ipynb)  
+
+## Sequence processiong IPython notebooks
+
+[Quality control of DNA-SIP 16S rRNA gene sequences](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/QC.ipynb)  
+[Download Garcia-Pichel data](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/download_Garcia-Pichel_2013.ipynb)  
+[Download Steven 2013 data](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/download_steven_2013_data.ipynb)  
+[Merge datasets](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/merge_datasets.ipynb)  
+[Merge metadata from each dataset](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/merge_metadata.ipynb)  
+[Taxonomically annotate 16S sequences](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/assign_taxonomy.ipynb)  
+[Bin 16S sequences into OTUs](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/OTU_binning.ipynb)  
+[BLAST sequences agains LTP database](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/BLAST.ipynb)  
