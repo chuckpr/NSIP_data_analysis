@@ -33,3 +33,14 @@ A preprint can be found at
 [Taxonomically annotate 16S sequences](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/assign_taxonomy.ipynb)  
 [Bin 16S sequences into OTUs](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/OTU_binning.ipynb)  
 [BLAST sequences agains LTP database](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/BLAST.ipynb)  
+
+## Description of files in data directory
+
+```LTP_blast_table.tsv```
+```barcode_mapper.txt```
+```finalQC.fasta.bz2```
+```garciapichel2013.csv```
+```OTU_table_wtax.biom```
+```otusn_yeager2006.fasta```
+```sample_data_combined_qiime_format.tsv``` 
+
