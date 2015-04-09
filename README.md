@@ -23,7 +23,7 @@ A preprint can be found at
 [Figure S4](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/rarefaction_curves.ipynb)  
 [Figure S5](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/figures_and_stats/diazotroph_distribution.ipynb)  
 
-## Sequence processiong IPython notebooks
+## Sequence processing IPython notebooks
 
 [Quality control of DNA-SIP 16S rRNA gene sequences](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/QC.ipynb)  
 [Download Garcia-Pichel data](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/download_Garcia-Pichel_2013.ipynb)  
@@ -32,17 +32,17 @@ A preprint can be found at
 [Merge metadata from each dataset](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/merge_metadata.ipynb)  
 [Taxonomically annotate 16S sequences](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/assign_taxonomy.ipynb)  
 [Bin 16S sequences into OTUs](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/OTU_binning.ipynb)  
-[BLAST sequences agains LTP database](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/BLAST.ipynb)  
+[BLAST sequences against LTP database](http://nbviewer.ipython.org/github/chuckpr/NSIP_data_analysis/blob/master/BLAST.ipynb)  
 
 ## Description of files in data directory
 
 | Filename | Description |
 | ------------------------------------------ | ------------------------------------------------------------------------|
-| LTP_blast_table.tsv                        | BLAST hits agains LTP database for OTU centroids |
+| LTP_blast_table.tsv                        | BLAST hits against LTP database for OTU centroids |
 | barcode_mapper.txt                         | barcodes and sample information for DNA-SIP 16S rRNA gene sequences     |
 | finalQC.fasta.bz2                          | All 16S rRNA sequences after quality control |
 | garciapichel2013.csv                       | Sample information for Garcia-Pichel data |
-| OTU_table_wtax.biom                        | OTU table with taxonomica annotations |
+| OTU_table_wtax.biom                        | OTU table with taxonomic annotations |
 | otusn_yeager2006.fasta                     | OTU centroid sequences |
 | sample_data_combined_qiime_format.tsv      | QIIME formatted sample data table for combined datasets |
 
