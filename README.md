@@ -2,7 +2,7 @@
 
 >**Charles Pepe-Ranney**, Chantal Koechli, Ruth Potrafka, Cheryl Andam, Erin
 >Eggleston, Ferran Garcia-Pichel, Daniel H Buckley. Non-cyanobacterial
->diazotrophs dominate dinitrogen fixation in biological
+>diazotrophs mediate dinitrogen fixation in biological
 >soil crusts during early crust formation. 
 
 A preprint can be found at
